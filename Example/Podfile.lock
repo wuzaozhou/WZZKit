@@ -1,0 +1,16 @@
+PODS:
+  - WZZKit (0.1.0)
+
+DEPENDENCIES:
+  - WZZKit (from `../`)
+
+EXTERNAL SOURCES:
+  WZZKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZZKit: 1e2c4d50560c0d12abbe48cf7a294a8d74afbc0c
+
+PODFILE CHECKSUM: 1b62673b055af6c895d0baad79c8eb7812075120
+
+COCOAPODS: 1.5.2

@@ -40,7 +40,7 @@
 		11C503512F496571802ED7D4 /* Pods-WZZKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WZZKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WZZKit_Tests/Pods-WZZKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		18581FFFDBAC34B99BFB1C06 /* Pods-WZZKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WZZKit_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-WZZKit_Tests/Pods-WZZKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		198BEE7211EB67A474450662 /* Pods_WZZKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WZZKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		22F6F7885036FB139DD02DB7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		22F6F7885036FB139DD02DB7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		29C6D2028B6AEA8129B0ADFB /* Pods-WZZKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WZZKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-WZZKit_Example/Pods-WZZKit_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* WZZKit_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WZZKit_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -65,8 +65,8 @@
 		7844321AB39EADFAD50FA902 /* Pods_WZZKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WZZKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B826F31B56F0BD22A4BE1656 /* Pods-WZZKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WZZKit_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WZZKit_Example/Pods-WZZKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		D68F9E75072792A5E181325F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		F1086999FDB3B3574333D309 /* WZZKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = WZZKit.podspec; path = ../WZZKit.podspec; sourceTree = "<group>"; };
+		D68F9E75072792A5E181325F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		F1086999FDB3B3574333D309 /* WZZKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = WZZKit.podspec; path = ../WZZKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

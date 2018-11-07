@@ -7,6 +7,7 @@
 //
 
 #import "WZZViewController.h"
+#import <WZZKit/WZZText.h>
 
 @interface WZZViewController ()
 
